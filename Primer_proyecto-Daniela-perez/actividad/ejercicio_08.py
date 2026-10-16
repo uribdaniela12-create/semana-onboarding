@@ -1,0 +1,1 @@
+nota = float(input("Ingrese la nota del estudiante:"))
