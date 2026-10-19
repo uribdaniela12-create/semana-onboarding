@@ -1,0 +1,5 @@
+nombre: marta correa
+empresa: textil
+estado: inactivo
+
+marta@gmail.com

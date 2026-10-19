@@ -1,0 +1,13 @@
+Nombre : Sebastian 
+Empresa : Nike
+Nit : 90525
+
+
+Nombre : Esteban
+Empresa : Claud 
+Nit : 10233
+
+Nombre : Daniela 
+Empresa : Bancolombia
+Nit :36985
+

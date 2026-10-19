@@ -1,0 +1,5 @@
+numero:001
+cliente: ana torres
+valor: 150000
+estado: pendiente
+la factura se a pagado de manera exitosa

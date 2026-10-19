@@ -1,0 +1,5 @@
+octubre
+en este mes se han realizado varios cambios en la documentacion
+se han pagado algunas facturas
+hay clientes que dejaron de ser activos y han pasado a inactivos
+se cancelo el proyecto de app_domicilios.txt

@@ -1,0 +1,6 @@
+nombre: luis
+empresa: autolavado
+estado: activo
+
+luis@example.com
+

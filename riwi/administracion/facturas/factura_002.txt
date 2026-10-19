@@ -1,0 +1,5 @@
+numero:002
+nombre: luis
+valor:180000
+estado: pago
+

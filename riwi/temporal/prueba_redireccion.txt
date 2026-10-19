@@ -1,0 +1,2 @@
+Al realizar un comentario con un solo caracter > es para iniciar una primera linea en el archivo
+y al utilizar los dos caracteres >> se pueden continuar las siguientes lineas del archivo. 

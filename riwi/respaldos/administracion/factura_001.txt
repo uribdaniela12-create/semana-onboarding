@@ -1,0 +1,4 @@
+numero:001
+cliente: ana torres
+valor: 150000
+estado: pendiente

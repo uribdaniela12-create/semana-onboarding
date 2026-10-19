@@ -1,0 +1,15 @@
+lunes 
+se revisara inventario de productos.
+
+martes 
+se organizara archivos de clientes.
+
+miercoles
+actualizar reporte semanal
+
+jueves 
+verificar reportes pendientes.
+
+viernes
+se creara un respaldo de la informacion. 
+
